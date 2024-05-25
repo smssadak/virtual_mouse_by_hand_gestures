@@ -5,11 +5,11 @@ This project implements a virtual mouse system that allows users to control thei
 - Real-time Hand Tracking: Uses OpenCV and Mediapipe to accurately track hand movements in real-time.
 - Gesture Recognition: Recognizes various hand gestures for different mouse actions:
 - Move Cursor: Control the cursor position with hand movement.
-- Left Click: Pinch gesture for left-clicking.
+- Left Click: Pinch gesture for left clicking.
 - Right Click: Pinch gesture with a different hand configuration for right-clicking.
-- Double click: pinch gesture for double clicking on any file.
+- Double click: By Double clicking on any file.
 - Drag an Drop: Drags and drops the file from one location to another location.
-- Scroll: Scroll up and down by moving the hand vertically.
+- Scroll: Scroll up and down by moving the hand vertically and also left and right by moving the hand horizontally.
 - User-friendly Interface: Simple and intuitive interface for easy interaction.
 - Cross-Platform Compatibility: Works on Windows, macOS, and Linux.
 # Technologies used
